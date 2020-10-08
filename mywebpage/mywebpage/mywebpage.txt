@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Личная страница Арины Зариповой</title>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Личная страница и контакты">
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+	<body>
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+			<div class="container"> 
+				<div class="navbar-header"> 
+					<a href="https://ling.hse.ru/" class="navbar-brand">Школа лингвистики НИУ ВШЭ</a> 
+				</div> 
+				<nav class="collapse navbar-collapse" id="bs-navbar"> 
+					<ul class="nav navbar-nav navbar-right"> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2018/index.html">Страница курса</a> </li> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2018/baling_2018_1.html">Страница группы</a> </li> 
+					</ul>
+				</nav> 
+			</div>
+		</nav>
+		<header style="background-color:plum; padding-top:70px; "> 
+			<div class="container"> 
+				<div class="row">
+					<div class="col-md-4">
+						<br/><br/>
+						<h1>Арина Зарипова</h1>
+						<hr>
+						<p><i>Человек, умеющий <b>делать</i> HTML</b></p> 
+	                </div>
+					<div class="col-md-4">
+        	            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg/368px-Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg" title="Petrus Christus - Portrait of a Young Woman - Google Art Project.jpg" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
+					</div>
+	            </div>
+			</div>
+		</header>
+		<section id="portfolio">
+			<div class="container">
+				<div class="col-md-3">
+					<article>
+						<h3>Место учебы</h2>
+						<p>Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
+					</article>
+					<article>
+						<h3>Родной город</h2>
+						<p>Москва</p>
+					</article>
+					<article>
+						<h3>Школа</h2>
+						<p>Измайловская гимназия №1508</p>
+						<p>Лицей НИУ ВШЭ</p>
+					</article>
+				</div>
+				<div class="col-md-6">
+					<article>
+						<h3>Мои хобби и интересы</h2>
+						<p>Люблю играть в теннис, профессионально занималась им 5 лет<br />
+						Люблю рисовать пейзажи и разные картинки, хотя и не профессиональный художник<br />
+						Языки - моя страсть, довольно свободно владею английским (есть сертификат Cambridge B2, немецким (есть сертификат Гёте институт B2 и сертификат TestDaF 5444, начала изучать французский<br />
+						 Обожаю животных, хочу в будущем поучастововать в благотворительной организации по защите исчезающих видов<br />
+						Не представляю свою жизнь без музыки, чаще всего слушаю рок и другую динамичную музыку<br />
+						Обожаю кататься на горных лыжах зимой и любоваться горными пейзажами<br />
+						Часто и много путешествую с детства, побывала уже во многих странах, в том числе несколько раз в США, Германии, Великобритании. Понравились поездки в Чехию, Румынию, Белоруссию, Финляндию, Испанию и Крым(ещё до 2014 года)<br />
+						Обожаю мир Гарри Поттера и вообще мир фэнтези<br />
+						Много читаю, люблю разные жанры от зарубежной художественной литературы до фэнтези современных авторов и детективов Агаты Кристи<br />
+						В Лицее НИУ ВШЭ полюбила историю и историю экономики и экономических учений<br />
+						Люблю смотреть и пересматривать советские фильмы, которые вдохновляют меня своей искренностью и безпафосностью, однако некоторые современные фильмы тоже нравятся<br />
+						Люблю делать что-нибудь своими руками, handmade, делать всякие поделки и коллажи</p>   
+					</article>
+				</div>
+				<div class="col-md-3">
+					<h3>Я в соцсетях</h3>
+					<ul>
+						<li>VK</li>
+						<li>Telegram</li>
+						<li>WhatsApp</li>
+						<li>Instagram</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<footer class="bs-docs-footer"> 
+			<div class="container"> 
+				<p style="text-align:right; ">&copy; А.Зарипова, 2020</p> 
+			</div>
+		</footer>
+	</body>
+</html>
